@@ -1,4 +1,5 @@
-- 👋 Originally hail from Kohat, Pakistan
+**Ahmad H. Nadeem**
+- 👋 Originally from Kohat, Pakistan
 - 🔭 Super Passionate about Artificial Intelligence, Quantum Technology, and Pakistan's Startup Ecosystem
 
 <!--
