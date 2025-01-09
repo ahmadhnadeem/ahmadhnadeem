@@ -1,4 +1,4 @@
-- 👋 I originally hail from Kohat, Pakistan
+- 👋 Originally hail from Kohat, Pakistan
 - 🔭 Super Passionate about Artificial Intelligence, Quantum Technology, and Pakistan's Startup Ecosystem
 
 <!--
